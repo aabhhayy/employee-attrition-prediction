@@ -59,4 +59,4 @@ The dataset contains detailed HR information for employees, including :-
 ***************
 
 !!!!!!!! JUST CHECK OUT THE LINK ONCE :) !!!!!!!!
-
+https://github.com/aabhhayy/employee-attrition-prediction/blob/main/Employee%20Attriton%20Prediction.jpg
